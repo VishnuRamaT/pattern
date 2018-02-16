@@ -33,5 +33,5 @@ makePyramid()
 #calling function
 
 #change number according to your need
-makePyramid 5
+makePyramid 10
 
